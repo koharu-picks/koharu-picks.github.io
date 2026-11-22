@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://koharu-picks.github.io/sitemap.xml
